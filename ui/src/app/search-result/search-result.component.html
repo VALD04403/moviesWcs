@@ -1,0 +1,14 @@
+<div class="card-group">
+  <div class="col-xl-3 col-md-4 col-sm-6 mt-4" *ngFor="let result of results">
+    <div class="card" style="width: 18rem;">
+      <div class="card-header">
+        <h2>{{film.name}}</h2>
+      </div>
+      <img src="{{film.photo}}" class="card-img-top">
+      <div class="card-body">
+        <h4 class="card-text">{{film.year}}</h4>
+        <h5 class="card-text">{{film.director}}</h5>
+      </div>
+    </div>
+  </div>
+</div>

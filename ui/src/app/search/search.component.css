@@ -1,0 +1,12 @@
+/* Recherche */
+.search {
+    margin-top: 6em;
+    margin-bottom: 6em;
+}
+
+.search_icon {
+    background-color: white;
+    border-color: white;
+    border: 0;
+    font-size: 1.7rem;
+}

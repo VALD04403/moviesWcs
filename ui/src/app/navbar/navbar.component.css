@@ -1,0 +1,12 @@
+.navbar-brand {
+    font-weight: bold;
+}
+
+a, p{
+    font-family: Raleway;
+}
+
+.navbar {
+    background-color: #000000e9;
+    opacity: 0.96;
+}

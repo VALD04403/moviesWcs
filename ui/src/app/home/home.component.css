@@ -1,0 +1,26 @@
+/* Carousel */
+.carousel{
+    margin-top: 9em;
+    height: 600px;
+    background-image: url(https://media.senscritique.com/media/000012128433/source_big/Les_8_Salopards.jpg);
+    filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+}
+
+.slide {
+    margin-top: 0em;
+    height: 550px;
+    filter: none;
+}
+
+h2 {
+    font-family: Raleway;
+    color: black;
+    box-shadow: 1px 1px 100px black;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.marge {
+    margin-top: 3em;
+}

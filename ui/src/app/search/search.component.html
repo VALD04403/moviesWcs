@@ -1,0 +1,9 @@
+<!-- Barre de recherche -->
+<div class="container d-flex justify-content-center">
+  <form [formGroup]="searchForm" class="form-inline search">
+    <div class="form-group mx-sm-3 mb-2">
+      <input type='text' class="form-control" formControlName='input' placeholder="Search">
+    </div>
+    <button class="search_icon" type="submit"><i class="fa fa-search"></i></button>
+  </form>
+</div>

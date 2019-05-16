@@ -1,0 +1,14 @@
+<!-- Carousel -->
+<div class="carousel d-flex justify-content-center">
+  <ngb-carousel>
+    <ng-template ngbSlide *ngFor="let film of films">
+      <div class="carousel-caption">
+        <h2>Selection Tarantino</h2>
+      </div>
+      <img src="{{film.photo}}" class="slide">
+    </ng-template>
+  </ngb-carousel>
+</div>
+<div class="marge">
+  <app-year></app-year>
+</div>

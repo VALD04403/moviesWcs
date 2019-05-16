@@ -1,0 +1,66 @@
+.col-sm-6 {
+    color: #FFF;
+    text-align: center;
+}
+
+footer {
+    width:100%;
+    background-color: #000000e9;
+    min-height: 250px;
+    padding: 10px 0px 25px 0px;
+}
+
+.pt2 {
+    padding-top: 40px;
+    margin-bottom: 20px;
+}
+
+footer p, .enveloppe {
+    font-size: 18px;
+    color: #CCC;
+    padding-bottom: 0px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.text-white{
+    font-size: 33px;
+}
+
+.res{
+    margin-top: 5.5em;
+}
+
+.btn{
+    max-height: 40px;
+    font-size: 20px;
+    margin: 20px auto 0 auto;
+}
+
+h5 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/*Icon reseaux sociaux*/
+
+.text-white{
+    font-size: 34px;
+    text-align: center;
+}
+
+i:hover {
+   color: #666666;
+   text-decoration: none;
+}
+
+.reseaux{
+    margin-top: 2%;
+    margin-left: 6%;
+    text-align: center;
+}
+
+ul.reseaux {
+    padding: 0;
+    list-style-type: none;
+}
